@@ -1,9 +1,9 @@
-OUT_ZIP=KISS.zip
-LNCR_EXE=KISS.exe
+OUT_ZIP=NOIR.zip
+LNCR_EXE=NOIR.exe
 
 DLR=curl
 DLR_FLAGS=-L
-BASE_URL=https://github.com/kiss-community/repo-main/releases/download/2021.4-1/kiss-chroot-2021.4-1.tar.xz
+BASE_URL=https://github.com/noirlinux/main/releases/download/2021m/noir-chroot-2021m.tar.xz
 LNCR_ZIP_URL=https://github.com/yuk7/wsldl/releases/download/21020500/icons.zip
 LNCR_ZIP_EXE=Void.exe
 
