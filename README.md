@@ -9,7 +9,6 @@ This project is based on Alpine Linux musl-libc. For GNU-libc, visit https://git
 ![screenshot](https://raw.githubusercontent.com/wiki/yuk7/wsldl/img/Arch_Alpine_Ubuntu.png)
 
 [![Main CI Workflow](https://github.com/mmatongo/noirWSL/actions/workflows/build-zip.yml/badge.svg)](https://github.com/mmatongo/noirWSL/actions/workflows/build-zip.yml)
-[![Main CI Workflow](https://github.com/mmatongo/noirWSL/actions/workflows/release-zip.yml/badge.svg)](https://github.com/mmatongo/noirWSL/actions/workflows/release-zip.yml)
 [![Github All Releases](https://img.shields.io/github/downloads/mmatongo/noirWSL/total.svg?style=flat-square)](https://github.com/mmatongo/noirWSL/releases/latest)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![License](https://img.shields.io/github/license/mmatongo/noirWSL.svg?style=flat-square)
